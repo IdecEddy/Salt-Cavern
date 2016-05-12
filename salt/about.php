@@ -13,8 +13,8 @@
                 <ul id="nav-bar-ul">
                     <a href="index.php"><li id="first-li" class="nav-bar-li">Home</li></a>
                     <a href="about.php"><li class="nav-bar-li">About</li></a>
-                    <a href="http://www.secure-booker.com/saltcav/MakeAppointment/Search.aspx"><li class="nav-bar-li"> Book Now </li></a>
-                    <a href="http://store.yahoo.com/cgi-bin/clink?yhst-52764417431445+Gmk7Wa+index.html+"><li id="last-li" class="nav-bar-li"> Shop </li></a>
+                    <a href="#"><li class="nav-bar-li"> Book Now </li></a>
+                    <a href="#"><li id="last-li" class="nav-bar-li"> Shop </li></a>
                 </ul>
             </div>
             <figure id="header-figure">
