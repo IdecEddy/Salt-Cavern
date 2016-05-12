@@ -43,6 +43,33 @@
                     Salt therapy falls under the class of physical therapies. It is a non-invasive, natural therapy without the side affects of drugs normally used to treat these ailments, such as corticoids or steroids. The absence of these drugs allows this treatment to be safe for pregnant women, and even very young children. Children that receive this therapy inhale a lower concentration of salt air.
                     <br /><br />
                 </div>
+                <div id="img-container">
+                <div id="left-most-photo" class="photo-div">
+                    <img class="photo" src="images/salt-room.jpg"></img>
+                </div>
+                <div class="photo-div">
+                    <img class="photo" src="images/salt-lampV2.jpg"></img>
+                </div>
+
+            </div>
+            <div id="reviews">
+                <div id="left-most-quote" class="quote-div">
+                    <div class="quote-poster">
+                        ~Ginny Caroselli~
+                    </div>
+                    <div class="quote">
+                        We LOVE the Salt Cavern...heading there again today with friends! We feel fantastic after every session. Breathing deeper and wider and feeling amazing!
+                    </div>
+                </div>
+                <div class="quote-div">
+                    <div class="quote-poster">
+                        ~Dawn Eagelton~
+                    </div>
+                    <div class="quote">
+                       I am so glad I found a salt room in NJ. Thank you
+                    </div>
+                </div>
+            </div>
             </section>
             <div id='side-container'> 
                 <div id='slider'>
@@ -102,33 +129,6 @@
                 </div>
             </div>
             <br />
-            <div id="img-container">
-                <div id="left-most-photo" class="photo-div">
-                    <img class="photo" src="images/salt-room.jpg"></img>   
-                </div>
-                <div class="photo-div">
-                    <img class="photo" src="images/salt-lampV2.jpg"></img>   
-                </div>
-
-            </div>
-            <div id="reviews">
-                <div id="left-most-quote" class="quote-div">
-                    <div class="quote-poster">
-                        ~Ginny Caroselli~ 
-                    </div>
-                    <div class="quote">
-                        We LOVE the Salt Cavern...heading there again today with friends! We feel fantastic after every session. Breathing deeper and wider and feeling amazing!
-                    </div>
-                </div>
-                <div class="quote-div">
-                    <div class="quote-poster">
-                        ~Dawn Eagelton~
-                    </div>
-                    <div class="quote">
-                       I am so glad I found a salt room in NJ. Thank you 
-                    </div>
-                </div>
-            </div>
         </div>
         </div>
         <div id="footer">

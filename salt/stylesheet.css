@@ -155,16 +155,16 @@ body
 }
 .main-body
 {
+    display: flex;
+    justify-content: center;
     min-width: 1000px;
     font-family: "",sans-serif;
     max-width: 85%;
     height: 1134px;
     margin: auto;
     color:#474747;
-}
-#about
-{
-    height: 2120px;
+    height: auto;
+    margin-bottom: 40px;
 }
 #time-open
 {
@@ -246,11 +246,11 @@ body
 }
 #side-container
 {
+    margin-left:60px; 
     display:flex;
     width:260px;
     flex-direction: column;
     float:right;
-    margin:0px;
     padding-top: 50px;
     height:1084px
 }
@@ -260,15 +260,22 @@ body
     width: 70%;
     float: left;
     margin-top: 91px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 #title 
 {
+    align-self:flex-start;
     font-weight: bold;
     font-size: 33px;
 }
 #subtitle
 {
     font-weight: 300;
+    align-self:flex-start;
+    margin-bottom:15px;
 }
 #artical-body
 {
