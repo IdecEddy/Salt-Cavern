@@ -156,7 +156,7 @@ body
 .main-body
 {
     min-width: 1000px;
-    font-family: "PT Sans",sans-serif;
+    font-family: "",sans-serif;
     max-width: 85%;
     height: 1134px;
     margin: auto;
@@ -184,7 +184,6 @@ body
 {
     float:left;
     margin: 0px;
-    font-family: "railway",serif;
     font-size: 15px;
     font-weight: 300;
 }
@@ -205,7 +204,6 @@ body
 {
     float:left;
     margin:0px;
-    font-family: "Raleway";
     font-size: 15px;
     line-height: 1.4em;
     text-transform: uppercase;
@@ -224,7 +222,6 @@ body
 }
 .location-header
 {
-    font-family: "Raleway";
     font-size: 15px;
     line-height: 1.4em;
     text-transform: uppercase;
@@ -237,7 +234,6 @@ body
 {
     float:left;
     margin: 2px;
-    font-family: "railway",serif;
     font-size: 15px;
     font-weight: 300;
 }
@@ -245,7 +241,6 @@ body
 {
     float:left;
     margin: 2px;
-    font-family: "railway",serif;
     font-size: 15px;
     font-weight: 300;
 }
