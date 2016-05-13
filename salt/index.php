@@ -27,21 +27,20 @@
         <div class="main-body" id="index">
             <section id="artical-section">
                 <div id="title">
-                    Halotherapy
+                    The Salt Cavern
                 </div>
                 <div id="subtitle">
                     Breathe better with Salt. 
                 </div>
                 <br />
                 <div id="artical-body">
-                    The salt room helps people of all ages with allergies, asthma and breathing conditions by reducing inflammation. The reduction of inflammation helps people's bodies heal naturally. The salt permits your body to naturally function as your body is intended to, without side effects and long term reliance on medication.    
-                    <br /><br /> 
-                    Halotherapy or Salt Therapy uses dry aerosol of salt micro particles and minerals to treat respiratory and dermatological ailments and replicates conditions of treatment that has been practiced in European salt mines since early 19th century. It is a physical, non invasive, drug free and safe therapy.
+                    The salt cavern is a is a Halotherapy spa  where we specialize in assisting with the treatment of Asthma, Chronic bronchitis, Arthritis, and many other breathing ailments. The salt room helps people of all ages with allergies, asthma and breathing conditions by reducing inflammation. The reduction of inflammation helps people's bodies heal naturally. The salt permits your body to naturally function as your body is intended to, without side effects and long term reliance on medication. 
                     <br /><br />
-                    During a treatment, the patient is allowed to relax in the room for the duration of the session. Each session last from twenty to forty five minutes, and is repeated daily for up to fifteen days. Treatments are recommended up to three times per year. Speleotherapy treatments are typically not private; patients usually can share a treatment rome with as many as six other individuals.
+                    During a treatment, the patient is allowed to relax in the room for the duration of the session. Each session last from twenty to forty five minutes, and is repeated daily for up to fifteen days. Treatments are recommended up to three times per year. Speleotherapy treatments are typically not private; patients usually can share a treatment rome with as many as six other individuals. 
                     <br /><br />
-                    Salt therapy falls under the class of physical therapies. It is a non-invasive, natural therapy without the side affects of drugs normally used to treat these ailments, such as corticoids or steroids. The absence of these drugs allows this treatment to be safe for pregnant women, and even very young children. Children that receive this therapy inhale a lower concentration of salt air.
+                    Salt therapy falls under the class of physical therapies. It is a non-invasive, natural therapy without the side effects of drugs normally used to treat these ailments, such as corticoids or steroids. The absence of these drugs allows this treatment to be safe for pregnant women, and even very young children. Children that receive this therapy inhale a lower concentration of salt air. 
                     <br /><br />
+
                 </div>
                 <div id="img-container">
                 <div id="left-most-photo" class="photo-div">
