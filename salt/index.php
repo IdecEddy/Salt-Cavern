@@ -6,14 +6,17 @@
         <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700,300' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'><link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
         <script src="side-slider.js"></script>
+        <script>
+            document.getElementById('home').focus(); 
+        </script>
     </head>
     <body>
         <div id='header'>
             <div id="nav-bar">
                 <ul id="nav-bar-ul">
-                    <a href="index.php"><li id="first-li" class="nav-bar-li">Home</li></a>
+                    <a href="index.php" ><li id="first-li" class="nav-bar-li">Home</li></a>
                     <a href="about.php"><li class="nav-bar-li">About</li></a>
-                    <a href="#"><li class="nav-bar-li"> Book Now </li></a>
+                    <a href="#"><li id="book" class="nav-bar-li"> Book Now </li></a>
                     <a href="#"><li id="last-li" class="nav-bar-li"> Shop </li></a>
                 </ul>
             </div>

@@ -11,8 +11,8 @@
         <div id='header'>
               <div id="nav-bar">
                 <ul id="nav-bar-ul">
-                    <a href="index.php"><li id="first-li" class="nav-bar-li">Home</li></a>
-                    <a href="about.php"><li class="nav-bar-li">About</li></a>
+                    <a href="index.php"><li id="first-li-hack" class="nav-bar-li">Home</li></a>
+                    <a href="about.php"><li id="focus" class="nav-bar-li">About</li></a>
                     <a href="#"><li class="nav-bar-li"> Book Now </li></a>
                     <a href="#"><li id="last-li" class="nav-bar-li"> Shop </li></a>
                 </ul>

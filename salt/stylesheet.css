@@ -145,7 +145,7 @@ body
 {
     background-color:rgba(18, 18, 18, 0.6);
 }
-#first-li
+#first-li, #first-li-hack
 {
     padding-left:20px;
 }
@@ -343,6 +343,10 @@ a , a:visited , a:hover , a:active
 {
     text-decoration:none;
     color:#FFF;
+}
+li#first-li, li#focus
+{
+    background-color:rgba(18, 18, 18, 0.6);
 }
 .source 
 {
